@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://tnaishe.github.io/csb-dzxkeh/static/css/main.c34a9c97.chunk.css",
+    "main.js": "https://tnaishe.github.io/csb-dzxkeh/static/js/main.f0c7c2a9.chunk.js",
+    "main.js.map": "https://tnaishe.github.io/csb-dzxkeh/static/js/main.f0c7c2a9.chunk.js.map",
+    "runtime-main.js": "https://tnaishe.github.io/csb-dzxkeh/static/js/runtime-main.5abe0994.js",
+    "runtime-main.js.map": "https://tnaishe.github.io/csb-dzxkeh/static/js/runtime-main.5abe0994.js.map",
+    "static/js/2.50fa7aa9.chunk.js": "https://tnaishe.github.io/csb-dzxkeh/static/js/2.50fa7aa9.chunk.js",
+    "static/js/2.50fa7aa9.chunk.js.map": "https://tnaishe.github.io/csb-dzxkeh/static/js/2.50fa7aa9.chunk.js.map",
+    "index.html": "https://tnaishe.github.io/csb-dzxkeh/index.html",
+    "static/css/main.c34a9c97.chunk.css.map": "https://tnaishe.github.io/csb-dzxkeh/static/css/main.c34a9c97.chunk.css.map",
+    "static/js/2.50fa7aa9.chunk.js.LICENSE.txt": "https://tnaishe.github.io/csb-dzxkeh/static/js/2.50fa7aa9.chunk.js.LICENSE.txt",
+    "static/media/1.9dc9ec1d.JPG": "https://tnaishe.github.io/csb-dzxkeh/static/media/1.9dc9ec1d.JPG",
+    "static/media/2.b2193f2b.JPEG": "https://tnaishe.github.io/csb-dzxkeh/static/media/2.b2193f2b.JPEG",
+    "static/media/3.bec5f2d0.JPEG": "https://tnaishe.github.io/csb-dzxkeh/static/media/3.bec5f2d0.JPEG",
+    "static/media/4.27672953.JPEG": "https://tnaishe.github.io/csb-dzxkeh/static/media/4.27672953.JPEG",
+    "static/media/5.319dbebd.jpg": "https://tnaishe.github.io/csb-dzxkeh/static/media/5.319dbebd.jpg",
+    "static/media/6.de11fc2d.jpg": "https://tnaishe.github.io/csb-dzxkeh/static/media/6.de11fc2d.jpg",
+    "static/media/Android Studio1.b0fb7350.png": "https://tnaishe.github.io/csb-dzxkeh/static/media/Android Studio1.b0fb7350.png",
+    "static/media/Coffee1.6be54cb7.jpg": "https://tnaishe.github.io/csb-dzxkeh/static/media/Coffee1.6be54cb7.jpg",
+    "static/media/Java.c74b5095.png": "https://tnaishe.github.io/csb-dzxkeh/static/media/Java.c74b5095.png",
+    "static/media/Visual Studio.3f5699a7.png": "https://tnaishe.github.io/csb-dzxkeh/static/media/Visual Studio.3f5699a7.png",
+    "static/media/Visual Studio2.4c8cd40c.png": "https://tnaishe.github.io/csb-dzxkeh/static/media/Visual Studio2.4c8cd40c.png",
+    "static/media/mosquito.a7c5f377.jpg": "https://tnaishe.github.io/csb-dzxkeh/static/media/mosquito.a7c5f377.jpg",
+    "static/media/robotcar.2192de1a.png": "https://tnaishe.github.io/csb-dzxkeh/static/media/robotcar.2192de1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5abe0994.js",
+    "static/js/2.50fa7aa9.chunk.js",
+    "static/css/main.c34a9c97.chunk.css",
+    "static/js/main.f0c7c2a9.chunk.js"
+  ]
+}
